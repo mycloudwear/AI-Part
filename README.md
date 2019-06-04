@@ -1,6 +1,6 @@
 # Python-based AI Computing Server
 
-## 1 Installation
+## 1 Environmental configuration
 
 ## 2 Function
 1. The server firstly deal with images uploaded by the user, to predict various attributes including the length of the coat, the length of the sleeve, the length of the pant, the design of the collar, as well as the colour of the cloth. 
