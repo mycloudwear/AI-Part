@@ -33,3 +33,5 @@
 
 3. 记录用户**不喜欢**的操作，实现个性化。
 4. 提供删除照片的功能，用户可以**删除**他们不喜欢或上传错误的衣物。
+# 致谢
+**Jeremyczhj** 的 [FashionAI_Tianchi_2018](https://github.com/Jeremyczhj/FashionAI_Tianchi_2018) 
