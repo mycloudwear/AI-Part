@@ -2,6 +2,7 @@
 [![Badge](https://img.shields.io/badge/Website-MyCloudwear-%2322B8DB.svg)](https://mycloudwear.com)
 [![LICENSE](https://img.shields.io/badge/License-Anti%20996-%23FF4D5B.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+[中文](README_CN.md) | English
 ## 1 Environmental configuration
 
 ## 2 Features
