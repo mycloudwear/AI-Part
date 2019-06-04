@@ -1,5 +1,8 @@
 # 基于python的AI计算服务器
+[![Badge](https://img.shields.io/badge/Website-MyCloudwear-%2322B8DB.svg)](https://mycloudwear.com)
+[![LICENSE](https://img.shields.io/badge/License-Anti%20996-%23FF4D5B.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE_CN)
 
+中文 | [English](README.md)
 ## 1  环境配置
 
 ## 2  功能介绍
