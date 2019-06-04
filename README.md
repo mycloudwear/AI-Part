@@ -15,7 +15,7 @@
 [中文](README_CN.md) | English
 ## 1 API Usage
 You need to use the package from `Removebg`.
-You can obtain the api from https://www.remove.bg/api. 
+You can obtain the api key from https://www.remove.bg/api. 
 ## 2 Features
 1. Deal with images uploaded by the user, to predict various attributes including:
 * The **length** of the coat, sleeve, pant. 
