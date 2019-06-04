@@ -34,3 +34,6 @@ You can obtain the api key from https://www.remove.bg/api.
 
 3. The **dislike** operation will be recorded by the server to help realize individuation.
 4. Support the function for the user to `delete` dislike or duplicated clothes in the **Photo Management**.
+
+# Acknowledgement
+**Jeremyczhj** for [FashionAI_Tianchi_2018](https://github.com/Jeremyczhj/FashionAI_Tianchi_2018) 
