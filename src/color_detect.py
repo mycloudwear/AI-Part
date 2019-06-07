@@ -41,7 +41,7 @@ def get_color(frame):
 
 
 def back_remove(dir):
-    rmbg = RemoveBg("JePRjqGGRxy2LzN526zikRxg", "error.log")
+    rmbg = RemoveBg("Your api key", "error.log")
     rmbg.remove_background_from_img_file(dir)
 
 
